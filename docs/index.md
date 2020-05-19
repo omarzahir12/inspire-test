@@ -23,7 +23,7 @@ This is some **Bold** and *Italicized* Text
 
 This should be a picture
 
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+![Benjamin Bannekat](https://octodex.github.com/images/logo.png)
 
 A link
 https://www.google.ca/
