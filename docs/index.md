@@ -22,8 +22,7 @@ This is some **Bold** and *Italicized* Text
 * Lists
 
 This should be a picture
-
-![Baby Yoda](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vanityfair.com%2Fhollywood%2F2019%2F11%2Fthe-mandalorian-star-wars-baby-yoda&psig=AOvVaw3Cer4t-_Ads7l2HJJY-yDV&ust=1590010664906000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIilrrvxwOkCFQAAAAAdAAAAABAD)
+![Baby Yoda](https://media.vanityfair.com/photos/5dd70131e78810000883f587/master/w_1024%2Cc_limit/baby-yoda-craze.jpg)
 
 A link
 https://www.google.ca/
