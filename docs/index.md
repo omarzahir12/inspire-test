@@ -23,7 +23,7 @@ This is some **Bold** and *Italicized* Text
 
 This should be a picture
 
-![Benjamin Bannekat](https://octodex.github.com/images/logo.png)
+![Baby Yoda](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vanityfair.com%2Fhollywood%2F2019%2F11%2Fthe-mandalorian-star-wars-baby-yoda&psig=AOvVaw3Cer4t-_Ads7l2HJJY-yDV&ust=1590010664906000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIilrrvxwOkCFQAAAAAdAAAAABAD)
 
 A link
 https://www.google.ca/
